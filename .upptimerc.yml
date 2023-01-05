@@ -14,7 +14,7 @@ status-website:
   name: My status website
   navbar:
     - title: Status
-      href: /
+      href: /hassio-upptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
