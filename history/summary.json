@@ -4,19 +4,19 @@
     "url": "$URL_TO_MONITOR",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "my-site",
-    "status": "down",
-    "uptime": "95.10%",
-    "uptimeDay": "80.49%",
-    "uptimeWeek": "95.10%",
-    "uptimeMonth": "95.10%",
-    "uptimeYear": "95.10%",
-    "time": 2212,
-    "timeDay": 1012,
-    "timeWeek": 2212,
-    "timeMonth": 2212,
-    "timeYear": 2212,
+    "status": "up",
+    "uptime": "92.67%",
+    "uptimeDay": "70.06%",
+    "uptimeWeek": "92.67%",
+    "uptimeMonth": "92.67%",
+    "uptimeYear": "92.67%",
+    "time": 2139,
+    "timeDay": 1006,
+    "timeWeek": 2139,
+    "timeMonth": 2139,
+    "timeYear": 2139,
     "dailyMinutesDown": {
-      "2023-01-09": 281
+      "2023-01-09": 431
     }
   }
 ]
