@@ -4,8 +4,8 @@
     "url": "$URL_TO_MONITOR",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "my-site",
-    "status": "up",
-    "uptime": "94.02%",
+    "status": "down",
+    "uptime": "94.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 756,
     "timeYear": 757,
     "dailyMinutesDown": {
+      "2024-02-24": 0,
       "2024-01-21": 551,
       "2024-01-20": 279,
       "2024-01-02": 354,
