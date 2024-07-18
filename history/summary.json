@@ -4,12 +4,12 @@
     "url": "$URL_TO_MONITOR",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "my-site",
-    "status": "up",
-    "uptime": "97.62%",
-    "uptimeDay": "47.85%",
-    "uptimeWeek": "43.33%",
+    "status": "down",
+    "uptime": "97.68%",
+    "uptimeDay": "59.94%",
+    "uptimeWeek": "43.38%",
     "uptimeMonth": "61.38%",
-    "uptimeYear": "96.36%",
+    "uptimeYear": "96.44%",
     "time": 754,
     "timeDay": 818,
     "timeWeek": 786,
@@ -58,8 +58,7 @@
       "2024-05-27": 50,
       "2024-05-21": 26,
       "2024-05-16": 58,
-      "2024-05-07": 26,
-      "2024-05-01": 427
+      "2024-05-07": 26
     }
   }
 ]
