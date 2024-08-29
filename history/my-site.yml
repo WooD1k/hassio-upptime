@@ -1,7 +1,7 @@
 url: $URL_TO_MONITOR
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-08-29T19:36:06.413Z
+status: up
+code: 200
+responseTime: 841
+lastUpdated: 2024-08-29T22:57:38.180Z
 startTime: 2023-01-05T20:25:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
