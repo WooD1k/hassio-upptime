@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "my-site",
     "status": "down",
-    "uptime": "90.93%",
+    "uptime": "90.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "78.48%",
+    "uptimeYear": "78.20%",
     "time": 754,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 752,
     "dailyMinutesDown": {
-      "2025-08-12": 56,
+      "2025-08-13": 57,
+      "2025-08-12": 1440,
       "2025-08-11": 1440,
       "2025-08-10": 1440,
       "2025-08-09": 1440,
@@ -114,8 +115,7 @@
       "2024-08-25": 499,
       "2024-08-24": 88,
       "2024-08-20": 189,
-      "2024-08-14": 409,
-      "2024-08-13": 178
+      "2024-08-14": 409
     }
   }
 ]
